@@ -3,3 +3,6 @@ mkdir uno dos tres
 
 9.
 echo David Reinon > un.txt
+
+10.
+> processos.txt
