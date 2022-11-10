@@ -1,2 +1,5 @@
 8.
 mkdir uno dos tres
+
+9.
+echo David Reinon > un.txt
